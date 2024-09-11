@@ -1,4 +1,4 @@
-<h1>Hi, I’m @natalieung!👋 </h1>
+<h1>Hi, I’m Natalie Ung!👋 </h1>
 
 <ul>
   <li>👀 I’m a rising senior at UC Davis pursuing a career in Product Design and UX.</li>
